@@ -1,0 +1,3 @@
+[submodule "utah-scoring-engine"]
+	path = utah-scoring-engine
+	url = https://github.com/Marcus-Pengue/utah-scoring-engine.git
